@@ -22,6 +22,7 @@ class ColorBlock {
   static const Color greenLight = Color(0xFF5f9025);
   static const Color greenLighter = Color(0xFFebf6e0);
   static const Color greenLightest = Color(0xFFF0FFDE);
+  static const Color greenRadio = Color(0xFF0A885B);
 
   static const Color orange = Color(0xFFFF7465);
   static const Color orangeDark = Color(0xFFc4690e);
@@ -40,6 +41,9 @@ class ColorBlock {
 
   static const Color leaf = Color(0xFF20C997);
   static const Color blueGray = Color(0xFF647C9C);
+  static const Color blueBtn = Color(0xff5364F4);
+
+  static const Color grey = Color(0xffC4C4C4);
 
   static const Color google = Color(0xffDD4B39);
   static const Color pinterest = Color(0xFFc8232c);
